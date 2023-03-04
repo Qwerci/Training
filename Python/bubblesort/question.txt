@@ -1,0 +1,17 @@
+1. Sort a list of 25 numbers in REVERSE order (decreasing order)
+    [21, 4, 2, 13, 10, 0, 19, 11, 7, 5, 23, 18, 9, 14, 6, 8, 1, 20, 17, 3, 16, 22, 24, 15, 12]
+
+2. Sort a list of animals (strings) in alphabetical order
+    ["dog", "cat", "alligator", "cheetah", "rat", "moose", "cow", "mink", "porcupine", "dung beetle", "camel", "steer", "bat", "hamster", "horse", "colt", "bald eagle", "frog", "rooster"]
+
+3. Sort a User object by last, then first name.
+    [
+    "Jon Calhoun",
+    "Bob Smith",
+    "John Smith",
+    "Larry Green",
+    "Joseph Page",
+    "George Costanza",
+    "Jerry Seinfeld",
+    "Shane Calhoun"
+    ]
